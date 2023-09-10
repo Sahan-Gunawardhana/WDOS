@@ -1,2 +1,2 @@
 # WDOS
-web development and application modelling 
+web development and operating systems
