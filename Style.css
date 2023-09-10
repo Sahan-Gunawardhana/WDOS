@@ -1451,7 +1451,7 @@ tr:nth-last-of-type(3n){
     color:var(--compcolor) ;
     margin-top: 10px;
     text-decoration: underline;
-    font-size: 1.5vw;
+    font-size: 1.2em;
 }
 .info .infoBox section{
     display: flex;
