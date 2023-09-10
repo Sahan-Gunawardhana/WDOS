@@ -411,7 +411,7 @@ hr{
 	background-image: url(./footerevent.jpeg);
 	background-repeat: no-repeat;
 	background-position: center;
-	height: 46.99vh;
+	height: auto;
     background-size: cover;
     filter: grayscale(100%);
 }
@@ -424,7 +424,7 @@ hr{
 	text-align:justify;
 	font-family: "Souce Code Pro",'Ariel';
 	align-items: top;
-	height: 45vh;
+	height: auto;
 	padding: 0 2% 0 5%;
 	margin-top: 10%;
     flex-wrap: wrap;
@@ -703,7 +703,7 @@ hr{
 	background-image: url(./footerevent.jpeg);
 	background-repeat: no-repeat;
 	background-position: center;
-	height: 46.99vh;
+	height: auto;
     background-size: cover;
 }
 
